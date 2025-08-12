@@ -1,21 +1,21 @@
 [submodule "sysbox-fs"]
 	path = sysbox-fs
-	url = ../sysbox-fs.git
+	url = https://github.com/nestybox/sysbox-fs.git
 [submodule "sysbox-runc"]
 	path = sysbox-runc
-	url = ../sysbox-runc.git
+	url = https://github.com/nestybox/sysbox-runc.git
 [submodule "sysbox-ipc"]
 	path = sysbox-ipc
-	url = ../sysbox-ipc.git
+	url = https://github.com/nestybox/sysbox-ipc.git
 [submodule "sysbox-mgr"]
 	path = sysbox-mgr
-	url = ../sysbox-mgr.git
+	url = https://github.com/nestybox/sysbox-mgr.git
 [submodule "sysbox-libs"]
 	path = sysbox-libs
-	url = ../sysbox-libs.git
+	url = https://github.com/nestybox/sysbox-libs.git
 [submodule "sysbox-pkgr"]
 	path = sysbox-pkgr
-	url = ../sysbox-pkgr.git
+	url = https://github.com/nestybox/sysbox-pkgr.git
 [submodule "sysbox-dockerfiles"]
 	path = sysbox-dockerfiles
-	url = ../dockerfiles.git
+	url = https://github.com/nestybox/dockerfiles.git
